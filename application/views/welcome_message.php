@@ -1094,10 +1094,11 @@
   </style>
 -->
 
+<!--
   <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
   <div id="preloader"></div>
-
+-->
   <!-- Vendor JS Files -->
   <script src="<?php echo base_url('Impact/'); ?>assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="<?php echo base_url('Impact/'); ?>assets/vendor/aos/aos.js"></script>

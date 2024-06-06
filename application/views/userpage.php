@@ -1476,8 +1476,8 @@ if (defaultButton) {
 
   </div>
         -->
-  
-  <p onclick="showCustomAlert()" class="scroll-top" style="top:600px; right: 50px;"><img src="<?php echo base_url('/Impact/icons/ewallet.png')?>" alt="" style="width:50px; height:50px;"></p>
+        <!--COMMENT OUT E WALLLET BUTTON-->
+  <!--p onclick="showCustomAlert()" class="scroll-top" style="top:600px; right: 50px;"><img src="<?php echo base_url('/Impact/icons/ewallet.png')?>" alt="" style="width:50px; height:50px;"></!--p>-->
 
   <!--div id="preloader"></div -->
   <script>
